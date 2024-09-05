@@ -18,6 +18,9 @@ Javascript, HTML, CSS...
 
 - [@AlcidesThiago2016](https://github.com/AlcidesThiago2016)
 
+## Link Site Externo
+
+- https://projeto-game-shop-gules.vercel.app
 
 ## Licença
 
